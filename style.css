@@ -157,6 +157,21 @@ ul li a:hover {
     color: #ffffff;
 }
 
+.hire__me {
+  display: inline-block;
+  text-align: center;
+  background-color: var(--primary-color);
+  color: #ffffff;
+  /* padding: 1rem 2rem; */
+  font-weight: 600;
+  letter-spacing: 2px;
+  border: 2px solid var(--primary-color);
+  border-radius: 10px;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+
 .hire__me:hover {
     background-color: #9381ff;
 }
